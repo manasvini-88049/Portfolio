@@ -1,0 +1,166 @@
+body
+{    
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(197, 240, 220);
+}
+
+.top-container
+{
+
+    background-color:rgb(190, 241, 248);
+    position: relative;
+    padding-top: 100px;
+   
+}
+.middle-container
+{
+    background-color:rgb(211, 253, 244) ;
+    padding-top: 150px;
+    position: relative;
+
+
+}
+.bottom-container
+{
+
+    background-color:rgb(130, 231, 231) ;
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 0;
+    padding: 70px 0 10px 0;
+}
+
+h1
+{  
+    margin-top: 50px;
+    font-size: 3.652rem;
+    font-family: 'Nunito', sans-serif; 
+    flex-grow: 12;
+    color:rgb(41, 3, 3);
+    position: relative;
+    font-weight: bold;
+    line-height: 0.53;
+}
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: rgb(43, 68, 43);
+}
+hr
+{
+    border: dotted green 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;
+}
+
+.top-cloud
+{
+position: relative;
+left: 300px;
+top: 50;
+}
+.bottom-cloud
+{
+position: absolute;
+left: 450px;
+bottom: 50;
+}
+.dragon
+{
+    border-radius: 100%;
+    border: 1px greenyellow;
+    width: 407px;
+    
+}
+.profile
+{   
+    padding: 12px 12px 12px 12px;
+    margin-left: 16%;
+    margin-right: 15%;
+    background-color:  rgba(101, 236, 196, 0.781);
+    
+    
+}
+.profile-title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    color: rgb(43, 68, 43);
+    line-height: 1;
+    text-align: center;
+}
+#profile-imag
+{
+    float: left;
+    width:17%;
+    padding: auto;
+    margin-right: 34px;
+    border-radius:100%;
+}
+.profile-para
+{
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+
+}
+.skills
+{   margin-top: 8%; 
+    padding: 12px 12px 12px 12px;
+    margin-right: 16%;
+    margin-left: 15%;
+background-color: rgba(124, 230, 156, 0.781);
+}
+.skills-title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    color: rgb(43, 68, 43);
+    line-height: 1;
+    text-align: center;
+}
+#skill-img
+{
+    float: right;
+    width:14%;
+    margin-left: 34px;
+ border-radius: 100%;
+}
+.skills-para
+{
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
+.contact-me
+{
+    margin-top: 8%; 
+    padding: 12px 12px 12px 12px;
+    margin-right: 16%;
+    margin-left: 15%;
+    
+}
+
+
+.contact_me-title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    color: rgb(43, 68, 43);
+    line-height: 1;
+    text-align: center; 
+}
+.contct_me-para
+{
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
